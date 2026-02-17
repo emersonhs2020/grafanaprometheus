@@ -25,7 +25,7 @@ kubectl get pods -n monitoring
 
 ```
 
-Depois acesse http://grafana.192.168.15.43.nip.io/ (Grafana)
+Depois acesse http://localhost:3001/ (Grafana)
 ```
 Usuario: admin
 Senha: admin
@@ -76,3 +76,4 @@ https://prometheus.io/
 https://grafana.com/
 
 ```
+https://youtu.be/5eJg9AuvGV0
